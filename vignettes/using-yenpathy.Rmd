@@ -2,8 +2,6 @@
 title: "Using Yenpathy"
 author: "Toph Allen and Noam Ross, EcoHealth Alliance"
 output: rmarkdown::html_vignette
-Suggests: markdown
-VignetteBuilder: knitr
 vignette: >
   %\VignetteIndexEntry{using-yenpathy}
   %\VignetteEngine{knitr::rmarkdown}
