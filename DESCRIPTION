@@ -21,6 +21,7 @@ LinkingTo:
 Imports: 
     Rcpp
 Suggests:
+    markdown,
     spelling, 
     testthat (>= 2.1.0),
     covr,
