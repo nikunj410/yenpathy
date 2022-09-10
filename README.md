@@ -38,7 +38,7 @@ Install **yenpathy** from GitHub with
 
 ``` r
 library(remotes)
-install_github("ecohealthalliance/yenpathy", build_vignettes = TRUE)
+install_github("https://github.com/nikunj410/yenpathy", build_vignettes = TRUE)
 ```
 
 ## Usage
